@@ -1,1 +1,6 @@
-vciao
+In this repository you can find the conceptual scheme, the logic scheme, the Cypher code and my thesis made after a MeSH data analysis and a study of the Neo4j system.
+
+
+You can download DDT of MeSH data and all the data at the link: https://www.nlm.nih.gov/databases/download/mesh.html
+
+You can browse in the MeSH system at the link: https://meshb.nlm.nih.gov/search  
